@@ -9,6 +9,7 @@
 http://localhost:18080/dist
 
 En pratique, nous avons remarqué l'erreur suivante :
+
 - La vm a une version différente des Guest Additions, pouvant provoquer l'impossibilité de créer le share folder
 et ainsi empêcher de copier l'application sur la vm.
 
